@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "CollectiblesTracker",
+  "author": "exexexexe",
+  "version": "0.1.0",
+  "description": "Live 100% tracker: press F7 for the exact notes, blueprints, plated weapons, clothing, videos, foods and crafted or printed items you're missing, with markers for them on your GPS.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/exexexexe/sotf-collectibles-checker"
+}

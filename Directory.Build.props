@@ -1,0 +1,6 @@
+<Project>
+    <!-- Default Steam install. Override with -p:GameDir=... or in a <Mod>.csproj.user file. -->
+    <PropertyGroup>
+        <GameDir Condition="'$(GameDir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Sons Of The Forest</GameDir>
+    </PropertyGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "TrapResetSwitch",
+  "author": "exexexexe",
+  "version": "0.1.0",
+  "description": "Flip an electrical switch to reset every triggered trap nearby, or only the traps your wire runs past.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": ""
+}

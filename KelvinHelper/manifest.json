@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "KelvinHelper",
+  "author": "exexexexe",
+  "version": "0.3.0",
+  "description": "Smarter Kelvin (host only): unsticks him when he walks into things, pulls him out of fire, resumes his last task when he gives up on it, and stays at base instead of following you.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": ""
+}

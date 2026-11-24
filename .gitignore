@@ -1,0 +1,8 @@
+bin/
+obj/
+ReleaseBuild/
+sdk-ref/
+.vs/
+.idea/
+.run/
+*.csproj.user

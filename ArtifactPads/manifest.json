@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "ArtifactPads",
+  "author": "exexexexe",
+  "version": "0.1.0",
+  "description": "Artifact teleport mode: Ctrl+1-9 saves a pad at your position, 1-9 teleports you to it. The normal portal teleport still works.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": ""
+}

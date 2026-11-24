@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "BlueprintShiftFill",
+  "author": "exexexexe",
+  "version": "0.1.0",
+  "description": "Hold Shift and press E on a blueprint to add every material it needs from your inventory at once.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": ""
+}
